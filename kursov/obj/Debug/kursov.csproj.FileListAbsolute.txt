@@ -1,0 +1,12 @@
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\bin\Debug\kursov.exe.config
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\bin\Debug\kursov.exe
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\bin\Debug\kursov.pdb
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\obj\Debug\kursov.csprojResolveAssemblyReference.cache
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\obj\Debug\kursov.csproj.CoreCompileInputs.cache
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\obj\Debug\kursov.exe
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\obj\Debug\kursov.pdb
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\bin\Debug\MathNet.Numerics.dll
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\bin\Debug\System.Threading.dll
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\bin\Debug\MathNet.Numerics.pdb
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\bin\Debug\MathNet.Numerics.xml
+C:\Users\Юлиана\Documents\Visual Studio 2017\Projects\kursov\kursov\bin\Debug\System.Threading.xml
